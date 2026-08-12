@@ -7,6 +7,8 @@
 // 
 // Authors:
 // - Nicolás Villegas <navillegas@miuandes.cl>
+//
+// This is a WORK IN PROGRESS module. It is provided "AS IS", without warranty of any kind.
 
 module pochoco_spi_slave (
   input  wire        clk_i,
